@@ -2,8 +2,11 @@
 layout: post
 title:  残梅
 date:   2021-01-26 15:01:35 +0300
-image:  02.jpg
-tags:   novel
+tags:   小说
+article_header:
+  type: cover
+  image:
+    src: /screenshots/canmei.jpg
 ---
 # 残梅
 
