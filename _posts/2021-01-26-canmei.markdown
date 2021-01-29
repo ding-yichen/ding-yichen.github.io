@@ -41,7 +41,7 @@ article_header:
 
 马嵬坡下，一代风华香消玉断。
 
-![11](screenshots/canmei.jpg)
+![11](https://raw.githubusercontent.com/ding-yichen/ding-yichen.github.io/master/screenshots/canmei.jpg)
 
 ......
 
