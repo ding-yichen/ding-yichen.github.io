@@ -41,6 +41,8 @@ article_header:
 
 马嵬坡下，一代风华香消玉断。
 
+![](screenshots/canmei.jpg)
+
 ......
 
 上阳百发人。
