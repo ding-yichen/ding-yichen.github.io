@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  changmen
+title:  长门
 date:   2021-01-30 15:01:35 +0300
 image:  02.jpg
 tags:   novel
