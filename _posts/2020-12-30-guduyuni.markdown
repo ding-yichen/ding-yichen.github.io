@@ -1,10 +1,16 @@
 ---
-layout: post
+layout: article 
 title:  孤独与你
 date:   2020-12-30 15:01:35 +0300
 image:  02.jpg
 tags:   novel
+aside:
+  toc: true
+sidebar:
+  nav: layouts
+
 ---
+
 # 孤独与你
 
 # 1
