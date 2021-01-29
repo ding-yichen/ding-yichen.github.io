@@ -7,8 +7,6 @@ article_header:
   image:
     src: /canmei.jpg
 ---
-# 残梅
-
 梅树——坚贞。
 
 我知道自己很美，我知道自己是才女。
