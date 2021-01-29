@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![TeXt Theme](about.assets/TeXt-home.jpg)
 
 Hello, I’m <strong>Ding Yichen</strong>
 
