@@ -6,7 +6,7 @@ tags:   小说
 article_header:
   type: cover
   image:
-    src: screenshots/canmei.jpg
+    src: /screenshots/canmei.jpg
 ---
 # 残梅
 
