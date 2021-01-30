@@ -1,9 +1,7 @@
 ---
 layout: article 
 title:  长门
-date:   2021-01-30 15:01:35 +0300
-image:  02.jpg
-tags:   novel
+tags:   小说
 ---
 我是馆陶长公主与堂邑侯陈午唯一的女儿，胶东王刘彻是我的小表弟。
 
