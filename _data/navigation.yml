@@ -49,8 +49,8 @@ header:
       # @end locale config
     url: /about.html
 
-layouts:
-  - title: Layouts
+yichenguwen:
+  - title: yichenguwen
     children:
       - title:  Single
         url:    /page/single.html

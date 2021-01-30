@@ -4,8 +4,6 @@ title:  一尘古文
 tags:   古文
 aside:
   toc: true
-sidebar:
-  nav: layouts
 ---
 # 讨盗贼檄	
 

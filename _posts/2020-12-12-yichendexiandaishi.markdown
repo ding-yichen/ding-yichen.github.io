@@ -4,8 +4,6 @@ title:  一尘的现代诗集
 tags:   现代诗
 aside:
   toc: true
-sidebar:
-  nav: layouts
 ---
 # 缘
 

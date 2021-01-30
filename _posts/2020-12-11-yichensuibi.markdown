@@ -4,8 +4,6 @@ title:  一尘随笔(短篇)
 tags:   小说
 aside:
   toc: true
-sidebar:
-  nav: layouts
 ---
 # 长门
 

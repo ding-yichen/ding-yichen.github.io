@@ -4,8 +4,6 @@ title:  一尘的词
 tags:   词
 aside:
   toc: true
-sidebar:
-  nav: layouts
 ---
 # 临江仙·忆昔时日日淡美
 
