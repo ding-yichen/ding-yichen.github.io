@@ -1,7 +1,7 @@
 ---
 layout: article 
 title:  一尘随笔(短篇)
-tags:   小说
+tags:   随笔
 aside:
   toc: true
 ---
